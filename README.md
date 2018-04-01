@@ -1,2 +1,2 @@
 # machine-learning-assignments
-Assignments and project based on courses and self-study
+Assignments and projects based on courses and self-study
