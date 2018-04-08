@@ -1,5 +1,5 @@
 # machine-learning
-Assignments and projects based on courses and self-study
+Projects based on courses and self-study
 
 Online self-study courses:
 Completed:
