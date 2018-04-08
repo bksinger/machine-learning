@@ -1,4 +1,4 @@
-# machine-learning-assignments
+# machine-learning
 Assignments and projects based on courses and self-study
 
 Online self-study courses:
