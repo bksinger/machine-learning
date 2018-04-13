@@ -12,3 +12,4 @@ Completed:
 
 Ongoing:
 1.[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+2. [Kaggle Dataset Competition: CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving)
