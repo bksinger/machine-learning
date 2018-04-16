@@ -10,7 +10,8 @@ Completed:
 5. [Mathematics of Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning/home/welcome)
 6. [Deep Learning: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 7. [Deep Learning: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+8. [Deep Learning: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
 Ongoing:
-1. [Deep Learning: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+1. [Deep Learning: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
 2. [Kaggle Dataset Competition: CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving)
