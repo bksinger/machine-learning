@@ -12,7 +12,7 @@ Completed:
 7. [Deep Learning: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 8. [Deep Learning: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 9. [Deep Learning: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+10. [Deep Learning: Sequential Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
 
 Ongoing:
-1. [Deep Learning: Sequential Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
-2. [Kaggle Dataset Competition: CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving)
+1. [Kaggle Dataset Competition: CVPR 2018 WAD Video Segmentation Challenge](https://www.kaggle.com/c/cvpr-2018-autonomous-driving)
