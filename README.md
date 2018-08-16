@@ -1,7 +1,7 @@
 # machine-learning
 Projects based on courses and self-study
 
-Online self-study courses:
+Online self-study courses:  
 Ongoing:
 1. [Databases and SQL for Data Science ](https://www.coursera.org/learn/sql-data-science/home/welcome)
 
