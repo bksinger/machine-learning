@@ -1,7 +1,10 @@
 # machine-learning
 Projects based on courses and self-study
 
-Online self-study courses:  
+Online self-study courses:
+Ongoing:
+1. [Databases and SQL for Data Science ](https://www.coursera.org/learn/sql-data-science/home/welcome)
+
 Completed:
 1. [Mathematics of Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome)
 2. [Mathematics of Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning/home/welcome)
